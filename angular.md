@@ -1,6 +1,7 @@
 #Angular Performance starts
 --------------------------
 https://medium.com/geekculture/the-complete-angular-performance-guide-for-2021-c5e55225b4d
+https://medium.com/grapecity/angular-best-practices-for-2021-da9579bf5751
 
 #Angular Performance ends
 ---------------------------
