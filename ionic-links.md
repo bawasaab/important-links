@@ -1,3 +1,5 @@
+chrome://inspect/#devices
+
 https://capacitorjs.com/docs/android
 
 https://capacitorjs.com/docs/android/troubleshooting
