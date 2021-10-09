@@ -12,8 +12,10 @@ TUTORIALS
 https://www.joshmorony.com/topics/capacitor-tutorials/
 
 #CMD
-#ionic capacitor build android --prod --release
-#ionic capacitor run android -l --host=192.168.0.143
+
+ionic capacitor build android --prod --release
+
+ionic capacitor run android -l --host=192.168.0.143
 
 COLORS
 <ion-button color="primary">Primary</ion-button>
