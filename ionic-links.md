@@ -11,9 +11,9 @@ https://gist.github.com/DKrepsky/e6d91fe7cc5dedf38a2cff19132c6f72
 TUTORIALS
 https://www.joshmorony.com/topics/capacitor-tutorials/
 
-CMD
-ionic capacitor build android --prod --release
-ionic capacitor run android -l --host=192.168.0.143
+#CMD
+#ionic capacitor build android --prod --release
+#ionic capacitor run android -l --host=192.168.0.143
 
 COLORS
 <ion-button color="primary">Primary</ion-button>
