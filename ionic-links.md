@@ -15,6 +15,8 @@ https://www.joshmorony.com/topics/capacitor-tutorials/
 
 ionic capacitor build android --prod --release
 
+ ionic cap run android --livereload --external
+
 ionic capacitor run android -l --host=192.168.0.143
 
 COLORS
