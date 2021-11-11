@@ -41,6 +41,9 @@ ng g module [module-name] --routing
 or 
 ng g m [module-name] --routing
 
+# GENERATE IONIC STYLE PAGES WITH LAZY LOAD below command generate order module with routing and the order component. This should be injected to the app routing module file with a route url
+ng generate module orders --route orders --module app.module
+
 
 
 **********************************************************************************************************************************
