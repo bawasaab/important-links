@@ -25,8 +25,9 @@ https://stackoverflow.com/questions/55095745/angular-7-not-sending-header-on-req
 https://stackoverflow.com/questions/39126638/ngmodel-cannot-be-used-to-register-form-controls-with-a-parent-formgroup-directi
 
 
-ng build --prod --aot --base-href /straw-back/
-ng build --prod --aot --base-href /straw-back-staging/
+# ng build --prod --aot --base-href /straw-back/
+
+# ng build --prod --aot --base-href /straw-back-staging/
 
 
 chrome://flags/#allow-insecure-localhost
